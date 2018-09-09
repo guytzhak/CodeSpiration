@@ -8,8 +8,8 @@ This page's purpose is to give the Web Developer tools, guides and tutorials to 
 
 ### :black_nib: CSS
 
-CSS things 
-<a name="some-text">
+ 
+<a name="some-text">CSS things</a>
 
 #### :milky_way: CSS ANIMATIONS
 
