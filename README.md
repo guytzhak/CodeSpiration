@@ -39,6 +39,10 @@ CSS things...
 * https://sweetalert2.github.io/ - JAVASCRIPT'S POPUP BOXES
 * https://github.com/miguel-perez/smoothState.js - SmoothState
 
+### jQuery
+
+* https://github.com/wilddeer/stickyfill - Polufill position sticky
+
 ## Softwares & SAAS
 
 <a name="softwares-section"></a>
