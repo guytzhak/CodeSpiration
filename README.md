@@ -4,6 +4,7 @@ CodeSpire Inspiration links&guides to learn Web Development
 - [CSS](#css-section)
 - [JS Vanilla](#js-vanilla-section)
 - [PHP](#php-section)
+- [Softwares](#softwares-section)
 
 
 ## Intro
@@ -32,6 +33,15 @@ CSS things...
 
  
 <a name="js-vanilla-section"></a>
-JS things...
+
+* https://sweetalert2.github.io/ - JAVASCRIPT'S POPUP BOXES
+* https://github.com/miguel-perez/smoothState.js - SmoothState
+
+## Softwares & SAAS
+
+<a name="softwares-section"></a>
+
+* https://createwithflow.com/ - Create Animation in a flow like after effect and export to code like css/js/etc...
+
 
 
