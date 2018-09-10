@@ -29,6 +29,7 @@ CSS things...
 #### :milky_way: CSS ANIMATIONS
 
 * https://www.sitepoint.com/how-to-use-motion-blur-in-css3-animations/ - Motion Blur
+* http://animista.net/ - CSS Animation presets&generator
 
 
 ### :black_nib: JS Vanilla
