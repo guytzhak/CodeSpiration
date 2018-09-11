@@ -19,7 +19,7 @@ This page's purpose is to give the Web Developer tools, guides and tutorials to 
 
 
 
-### :black_nib: CSS
+## :black_nib: CSS
 
  
 <a name="css-section"></a>
@@ -32,6 +32,8 @@ CSS things...
 * http://animista.net/ - CSS Animation presets&generator
 
 
+## JavaScript
+
 ### :black_nib: JS Vanilla
 
  
@@ -43,6 +45,10 @@ CSS things...
 ### jQuery
 
 * https://github.com/wilddeer/stickyfill - Polufill position sticky
+
+### Vue.JS
+
+* https://github.com/MatteoGabriele/vue-progressive-image - Vue Progressive Loading for images
 
 ## Softwares & SAAS
 
