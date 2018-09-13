@@ -41,6 +41,7 @@ CSS things...
 
 * https://sweetalert2.github.io/ - JAVASCRIPT'S POPUP BOXES
 * https://github.com/miguel-perez/smoothState.js - SmoothState
+* https://github.com/ahmadawais/scrollReveal.js - Screll Reveal
 
 ### jQuery
 
