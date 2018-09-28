@@ -11,13 +11,10 @@ CodeSpire Inspiration links&guides to learn Web Development
 
 This page's purpose is to give the Web Developer tools, guides and tutorials to extend his skills
 
-This page's purpose is to give the Web Developer tools, guides and tutorials to extend his skills
 
-This page's purpose is to give the Web Developer tools, guides and tutorials to extend his skills
+## Others
 
-This page's purpose is to give the Web Developer tools, guides and tutorials to extend his skills
-
-
+* https://www.youtube.com/freecodecamp/live - Live Radio for coding music
 
 ## :black_nib: CSS
 
