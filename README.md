@@ -20,7 +20,8 @@ This page's purpose is to give the Web Developer tools, guides and tutorials to 
 
  
 <a name="css-section"></a>
-CSS things...
+
+* https://drafts.csswg.org/indexes/ - Table of all css types, properties, value, etc...
 
 
 #### :milky_way: CSS ANIMATIONS
