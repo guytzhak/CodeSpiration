@@ -40,6 +40,7 @@ This page's purpose is to give the Web Developer tools, guides and tutorials to 
 * https://sweetalert2.github.io/ - JAVASCRIPT'S POPUP BOXES
 * https://github.com/miguel-perez/smoothState.js - SmoothState
 * https://github.com/ahmadawais/scrollReveal.js - Screll Reveal
+* https://aescripts.com/bodymovin/ - After Effect to js animation
 
 ### jQuery
 
